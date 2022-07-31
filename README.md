@@ -1,3 +1,6 @@
+# A mordern looking home page (currently not optmized for small devices. will do in near future)
+## live on https://playful-gelato-196a21.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
